@@ -1,15 +1,12 @@
 # GhaziOS
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Commercial / Source-Available](https://img.shields.io/badge/License-Source--Available-blue.svg)](LICENSE.md)
 
-Universal open-source operating system kernel maintained by @DevGhazi.
-
-## Overview
-GhaziOS is a microkernel-focused operating system designed for modern hardware, high performance, and security.
+Universal operating system kernel designed for modern hardware, high performance, and security. Maintained by @DevGhazi.
 
 ## Governance & Licensing
-- **Core Kernel:** Licensed under **GNU General Public License v3.0 (GPLv3)** to ensure all derivative works remain free and open-source.
-- **Trademarks:** Please read [TRADEMARK.md](TRADEMARK.md) before using the name or logo in third-party distributions or tools.
-
-## Contributing
-External contributions are welcome! Submit bug reports, feature requests, or Pull Requests. All PRs are strictly reviewed by the repository owner before merging.
+GhaziOS is released under a **Commercial & Source-Available License**:
+- **Non-Commercial Use:** Free for personal, educational, research, and non-profit use.
+- **Commercial Deployment:** Commercial use, OEM bundling, or production cloud deployments require a commercial license.
+- **Trademarks:** Refer to [TRADEMARK.md](TRADEMARK.md) for brand usage rules.
+- 
