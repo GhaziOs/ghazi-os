@@ -1,14 +1,25 @@
-# GhaziOS Trademark Policy
+# Trademark Policy – GhaziOS
 
-"GhaziOS", "Ghazi", and the associated logos are official trademarks of the Ghazi Project, maintained by @DevGhazi.
+This policy outlines the rules for using the official trademarks, logos, and brand names associated with **GhaziOS**, owned and maintained by @DevGhazi / Ghazi Organization.
 
-## Allowed Uses
-- Referring to the official GhaziOS project or its repositories.
-- Documenting compatibility with GhaziOS (e.g., "Built for GhaziOS").
+## 1. Protected Marks
+The following are registered/official brand assets:
+- **Names:** `GhaziOS`, `Ghazi Kernel`, `Ghazi Microkernel`
+- **Logos:** All official GhaziOS logos, icons, and branding graphics
 
-## Restricted Uses
-- You may NOT use the name "GhaziOS" or "Ghazi" as the name of a commercial product, fork, or distribution without explicit written permission from @DevGhazi.
-- You may NOT modify the core system binaries and continue to distribute them under the official "GhaziOS" name.
+## 2. Allowed Uses (No Permission Needed)
+You may use the name `GhaziOS` without prior written approval to:
+- Reference or discuss the OS in tutorials, articles, academic papers, and educational materials.
+- State software compatibility (e.g., "Designed for GhaziOS").
+- Identify original, unmodified builds distributed directly from our official repository.
 
-For trademark licensing inquiries, contact the project maintainer.
+## 3. Restricted Uses (Requires Explicit License)
+You **may not** use the name, logo, or confusingly similar variations to:
+- Name a modified fork or custom distribution (e.g., calling a fork "GhaziOS Pro").
+- Market, brand, or sell commercial hardware, devices, or cloud services without an explicit commercial trademark agreement.
+- Imply official endorsement, partnership, or sponsorship by @DevGhazi where none exists.
 
+## 4. Forking & Rebranding
+If you modify the source code of GhaziOS and distribute it, you **must remove all official logos and rebrand your version** under a completely distinct name to prevent user confusion.
+
+For trademark licensing or brand usage inquiries, contact: @DevGhazi
